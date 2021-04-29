@@ -1,0 +1,8 @@
+/* 
+
+Custom stylesheet to re-enable the ability to resize the textarea component in Safari. Configure browser settings to use this stylesheet.
+
+*/
+textarea {
+    resize: auto !important;
+}
